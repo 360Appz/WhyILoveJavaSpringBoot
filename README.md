@@ -20,6 +20,8 @@ Java stands apart from other programming languages not just in **syntax**, but i
    * 🤔 Then figure out Maven vs Gradle
    * 🧠 Then understand the JVM
    * 🚀 Then touch Spring and wonder why it looks like a NASA mission control panel
+
+ </br> 
 * **Step 2: The Architecture Phase**
    * 📐 Before writing business logic, you're configuring layers of architecture
    * 🏢 Setup feels like an enterprise onboarding session
