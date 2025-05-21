@@ -13,6 +13,8 @@ Java stands apart from other programming languages not just in **syntax**, but i
 | 🏎️ Go | Build a REST API in a weekend | Days | ⭐⭐⭐ |
 | ☕ Java | Multi-step initiation process (JDK, Maven/Gradle, JVM, Spring) | Weeks/Months | ⭐⭐⭐⭐⭐ |
 
+</br> 
+
 ## 🗺️ The Java Learning Journey
 
 * **Step 1: The Setup Phase**
@@ -22,6 +24,7 @@ Java stands apart from other programming languages not just in **syntax**, but i
    * 🚀 Then touch Spring and wonder why it looks like a NASA mission control panel
 
  </br> 
+ 
 * **Step 2: The Architecture Phase**
    * 📐 Before writing business logic, you're configuring layers of architecture
    * 🏢 Setup feels like an enterprise onboarding session
@@ -36,6 +39,7 @@ Java stands apart from other programming languages not just in **syntax**, but i
    * 💼 A company mindset disguised as syntax
 
  </br> 
+ 
 * **The Beginner Experience**
    * 🏋️‍♂️ **Heavy:** Requires significant mental load
    * ⏱️ **Slow:** Results take longer to achieve
