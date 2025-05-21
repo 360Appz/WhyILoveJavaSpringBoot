@@ -5,6 +5,8 @@
 
 Java stands apart from other programming languages not just in **syntax**, but in **philosophy** and **approach**. This guide explores the unique journey of learning Java, its challenges, and why its perceived complexity is actually its greatest strength.
 
+</br> 
+
 ## 🔄 Programming Language Learning Curve Comparison
 
 | Language | Learning Process | Timeline | Complexity Level |
@@ -29,6 +31,8 @@ Java stands apart from other programming languages not just in **syntax**, but i
    * 📐 Before writing business logic, you're configuring layers of architecture
    * 🏢 Setup feels like an enterprise onboarding session
    * 🧩 Multiple systems must be understood simultaneously
+
+</br> 
 
 ## 💭 The Java Philosophy
 
